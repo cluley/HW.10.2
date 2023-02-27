@@ -1,0 +1,4 @@
+C:/Users/oo43/source/repos/HW.10.2/out/build/x64-Debug/CMakeFiles/Figures.dir
+C:/Users/oo43/source/repos/HW.10.2/out/build/x64-Debug/CMakeFiles/Figures_Usage.dir
+C:/Users/oo43/source/repos/HW.10.2/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/oo43/source/repos/HW.10.2/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
